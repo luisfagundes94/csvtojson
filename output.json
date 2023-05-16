@@ -1,0 +1,596 @@
+[
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Madeira pra ajudar nos móveis",
+        "imagem": "https://www.tuacasa.com.br/wp-content/uploads/2017/12/tipos-de-madeira-24.jpg",
+        "preço": " 2.000,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "1º botijão de gás do casal",
+        "imagem": "https://images-americanas.b2w.io/produtos/4981171682/imagens/botijao-de-gas-13-kg-pode-ser-trocado-por-qualquer-marca/4981171682_1_large.jpg",
+        "preço": " 150,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Uma força na conta de luz",
+        "imagem": "https://www.receitas-sem-fronteiras.com/cache/slideshow/suposta-fatura.png/2cb6823c975ee09b0d93e071c71c86d5.png",
+        "preço": " 200,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Lâmpada pra casa",
+        "imagem": "https://www.lumitecfoto.com.br/media/catalog/product/cache/1/image/650x/9df78eab33525d08d6e5fb8d27136e95/l/a/lampada-incandescente-100w-1_1.jpg",
+        "preço": " 90,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Porta nova",
+        "imagem": "https://cdn.leroymerlin.com.br/products/porta_postigo_aluminio_brilhante_2_10x0,80_lado_esquerdo_1569838034_b56d_600x600.jpg",
+        "preço": " 300,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Rejunte dos pisos",
+        "imagem": "https://www.obramax.com.br/media/magefan_blog/rejunte.jpg",
+        "preço": " 250,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Help com os mármores",
+        "imagem": "https://i.ytimg.com/vi/BAqFYM7bCiE/maxresdefault.jpg",
+        "preço": " 700,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Almofadas pro sofá",
+        "imagem": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/035/509/products/cccd2141-b18d-41c3-8097-12b66fbe1045-506277311fa8f82eb616452932884550-640-0.jpeg",
+        "preço": " 110,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Ajuda com a obra",
+        "imagem": "https://www.mapadaobra.com.br/wp-content/uploads/2017/04/novo-layout-VC-6.jpg",
+        "preço": " 500,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Só pra não dizer que não dei nada",
+        "imagem": "https://media.seudinheiro.com/uploads/2022/10/dinheiro-10-2-1.jpg",
+        "preço": " 75,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Ladrilho novo na cozinha",
+        "imagem": "https://revestindoacasa.com.br/wp-content/uploads/2022/01/ladrilho-hidraulico-retoma-memoria-afetiva-em-reforma-de-apartamento-1-1024x683.jpg",
+        "preço": " 130,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "PIX",
+        "quantidade": "",
+        "nome": "Tinta pra pintar a casa",
+        "imagem": "https://blog.easydeco.com.br/wp-content/uploads/2019/06/afinal-como-pintar-uma-parede-sem-fazer-sujeira-aprenda-aqui.jpeg",
+        "preço": " 175,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Casa",
+        "quantidade": "1",
+        "nome": "vassoura mágica",
+        "imagem": "https://images-americanas.b2w.io/produtos/5959476050/imagens/aspirador-de-po-philco-rapid-turbo-2-em-1-vermelho-e-preto-ph1100-127-volts/5959476068_1_xlarge.jpg",
+        "preço": " 200,00 ",
+        "site": "https://www.americanas.com.br/produto/5959476050?epar=bp_pl_00_go_ep_d_9105_comp_tk2&opn=YSMESP&WT.srch=1&offerId=632aff329064f2befb50eaab&gclsrc=aw.ds&gclid=Cj0KCQiA4OybBhCzARIsAIcfn9lHvI72mv4smJ-OsXnlfDsCHUJI_38tGYGGxEXTfEoT4GTbQD5kuqoaAuspEALw_wcB&voltagem=127%20Volts&condition=NEW",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Casa",
+        "quantidade": "1",
+        "nome": "ferro de passar roupa",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_884848-MLA43166370003_082020-O.webp",
+        "preço": " 170,00 ",
+        "site": "https://www.mercadolivre.com.br/ferro-de-passar-roupas-blackdecker-vfa-eco-cor-cinza-127v/p/MLB16005832?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Casa",
+        "quantidade": "1",
+        "nome": "Tábua de passar roupa",
+        "imagem": "https://m.media-amazon.com/images/I/51OQMsLoMXL._AC_SY355_.jpg",
+        "preço": " 150,00 ",
+        "site": "",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Casa",
+        "quantidade": "5",
+        "nome": "Ventilador de Teto Branco",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/126516/Ventilador-De-Teto-Vx10-Ultimate-110V-150W-Branco-3-P-s_1672670341_gg.jpg",
+        "preço": " 520,00 ",
+        "site": "https://www.kabum.com.br/produto/126516/ventilador-de-teto-vx10-ultimate-110v-150w-branco-3-pas?gclid=Cj0KCQjw2cWgBhDYARIsALggUhrqk7xzX5y_hm-pPsolEpNMHwxdflNyoSyXz3O6NyN4hUA_CAkMUbcaAtCxEALw_wcB",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Casa",
+        "quantidade": "2",
+        "nome": "Ponto de acesso - Wifi",
+        "imagem": "https://m.media-amazon.com/images/I/21qu3VqcHhS._AC_.jpg",
+        "preço": " 900,00 ",
+        "site": "https://www.amazon.com.br/Ponto-acesso-Ubiquiti-U6-LITE-UniFi/dp/B08T6CKG5B?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AT7XWEJBMGQYG",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Casa",
+        "quantidade": "1",
+        "nome": "Switch com 5 portas",
+        "imagem": "https://m.media-amazon.com/images/I/51ODPN-LjcL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "preço": " 106,00 ",
+        "site": "https://www.amazon.com.br/Switch-Gigabit-Mesa-Portas-Ls1005G/dp/B07VC68RW1/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2BJC88GKMVD5Z&keywords=ethernet%2Bswitch%2Btp%2Blink&qid=1681745822&s=computers&sprefix=ethernetswitch%2Btp%2Blink%2Ccomputers%2C173&sr=1-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9&th=1",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Sala",
+        "quantidade": "1",
+        "nome": "TV Samsung QLED 55''",
+        "imagem": "https://a-static.mlcdn.com.br/800x560/smart-tv-55-4k-neo-qled-samsung-qn55qn85ba-120hz-wi-fi-bluetooth-alexa-google-assistente/magazineluiza/235287800/98c94f99e77fa1cf84866f28dd1b8304.jpg",
+        "preço": " 4.500,00 ",
+        "site": "https://www.magazineluiza.com.br/smart-tv-55-4k-neo-qled-samsung-qn55qn85ba-120hz-wi-fi-bluetooth-alexa-google-assistente/p/235287800/et/tv4k/?&force=3&seller_id=magazineluiza&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=69639&gclid=Cj0KCQjw2cWgBhDYARIsALggUhpm3CijKJAmOLYDjI7ObOeEKqe5PHDgN6s5iL2zYmdmAw-U17ljlAQaAkCDEALw_wcB&gclsrc=aw.ds",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Sala",
+        "quantidade": "1",
+        "nome": "Manta sofá",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_788114-MLB50422207783_062022-O.webp",
+        "preço": " 260,00 ",
+        "site": "https://produto.mercadolivre.com.br/MLB-2689553417-manta-de-sofa-tricot-diamond-franja-natural-bege-127x152cm-_JM?matt_tool=92309335&matt_word=&matt_source=bing&matt_campaign=MLB_ML_BING_AO_HOME%20%26%20INDUSTRY-ALL-ALL_X_PLA_ALLB_TXS_ALL&matt_campaign_id=382858298&matt_ad_group=HOME%20%26%20INDUSTRY&matt_match_type=e&matt_network=o&matt_device=c&matt_keyword=default&msclkid=f8275c13728e17e06171383f4a974448&utm_source=bing&utm_medium=cpc&utm_campaign=MLB_ML_BING_AO_HOME%20%26%20INDUSTRY-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4579053617522478&utm_content=HOME%20%26%20INDUSTRY",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Sala",
+        "quantidade": "1",
+        "nome": "Tapete Sala",
+        "imagem": "https://cdn.awsli.com.br/800x800/1811/1811937/produto/170784273/351f9a94fb.jpg",
+        "preço": " 450,00 ",
+        "site": "https://www.utilemcasa.com/tapete-algodao-cru-lines-200x150-lancamento",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Banheiro",
+        "quantidade": "1",
+        "nome": "Cesto - Branco",
+        "imagem": "https://www.ou.com.br/arquivos/ids/163033-1000-1000/Cesto-De-Roupas-Grid-Com-Tampa-49-Litros---Branco-Oceano.jpg?v=638006933348870000",
+        "preço": " 140,00 ",
+        "site": "https://www.ou.com.br/cesto-de-roupas-grid-com-tampa-49-litros/p",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Banheiro",
+        "quantidade": "3",
+        "nome": "Jogo de toalhas (Site ou similar)",
+        "imagem": "https://lojafirstclass.vteximg.com.br/arquivos/ids/170091-1000-1000/IMG_7554.jpg?v=638019733090000000",
+        "preço": " 200,00 ",
+        "site": "https://www.firstclass.com.br/jogo-banho-4-pecas-chronos-fio-penteado---7130-7717-atmos/p",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Banheiro",
+        "quantidade": "1",
+        "nome": "Kit Banheiro - Branco",
+        "imagem": "https://images.tcdn.com.br/img/img_prod/845859/kit_conjunto_para_banheiro_bambu_6_pecas_1901_1_359e2ac189baa894d88f185356b98937.jpg",
+        "preço": " 200,00 ",
+        "site": "https://www.lojaplasvale.com.br/banheiro/kit-conjunto-para-banheiro-bambu-6-pecas?parceiro=7869&gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsUTM8dqDKq1ZYGwH1oL612-41K2GrXuI27bZeGI7Dh65ESfMn67-IaAkIYEALw_wcB&variant_id=3301",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Banheiro",
+        "quantidade": "1",
+        "nome": "Kit Banheiro - Branco",
+        "imagem": "https://global.cdn.magazord.com.br/maluvalehomedecor/img/2022/07/produto/1249/kit-jogo-de-banheiro-amigold.png?ims=600x600",
+        "preço": " 90,00 ",
+        "site": "https://www.maluvalehomedecor.com.br/conjunto-para-banheiro-com-03-pecas-de-porcelana-amigold-?utm_source=google&utm_medium=Shopping&utm_campaign=conjunto-para-banheiro-com-03-pecas-de-porcelana-amigold-&inStock=&srsltid=AfAwrE7vR3NH3BcPe2piqvMukyJZfCD-JB1TG7gXIZpbGaakFUD5OBd0_14",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Banheiro",
+        "quantidade": "1",
+        "nome": "Porta sabonete líquido",
+        "imagem": "https://50180.cdn.simplo7.net/static/50180/sku/banheiro-porta-sabonete-liquido-de-porcelana-branco-e-preto--p-1596127186861.jpg",
+        "preço": " 80,00 ",
+        "site": "https://www.vimercati.com.br/banheiro/porta-sabonete-liquido-de-porcelana-branco-e-preto--p",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Banheiro",
+        "quantidade": "1",
+        "nome": "Toalha de chão banheiro",
+        "imagem": "https://7539028l.ha.azioncdn.net/img/2022/10/produto/4351/tapete-paris-antiderrapante-kit-felpudo-10unid-toalha-show-1.jpg?ims=800x800",
+        "preço": " 160,00 ",
+        "site": "https://www.toalhashow.com.br/kit-10-tapete-para-banheiro-antiderrapante-grosso-paris-45x70cm-cinza?utm_source=google&utm_medium=Shopping&utm_campaign=kit-10-tapete-para-banheiro-antiderrapante-grosso-paris-45x70cm-cinza&inStock&utm_source=google&utm_medium=cpc&utm_campaign=google_pmax_kits_de_piso_atoalhado&gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKtKbnksuz1H5SDQniilxZhVxHL6ZwM9UKu9utKdfcIkSDmcpbkKGhMaAhujEALw_wcB",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Suíte",
+        "quantidade": "1",
+        "nome": "Jogo de cama Queen",
+        "imagem": "https://static.riachuelo.com.br/RCHLO/14934795001/portrait/4b4ba6a20117895362f555571d9420c340d5869a.jpg",
+        "preço": " 140,00 ",
+        "site": "https://www.riachuelo.com.br/jogo-de-cama-queen-3-pecas-enzo-branco-casa-riachuelo-14934795001_sku",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Suíte",
+        "quantidade": "1",
+        "nome": "Jogo de cama Queen",
+        "imagem": "https://images.tcdn.com.br/img/img_prod/875745/jogo_de_cama_lencol_casal_queen_com_04_pecas_estampado_algodao_160_fios_grid_1339_1_9bfe6c4d529b01c88c8b92c28fa425f5.jpg",
+        "preço": " 130,00 ",
+        "site": "https://www.rviottoenxovais.com.br/jogo-de-cama-lencol/casal-queen/jogo-de-cama-lencol-casal-queen-com-04-pecas-estampado-algodao-160-fios-grid?parceiro=6668&gclid=Cj0KCQjw2cWgBhDYARIsALggUhoFPlnJh4i8QqehKbYTni_f7ngjzNwg5Ow2Q_-0d7xbkj0H_diAqyEaAucEEALw_wcB",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Suíte",
+        "quantidade": "1",
+        "nome": "Jogo de cama Queen",
+        "imagem": "https://lojafirstclass.vteximg.com.br/arquivos/ids/167502-1000-1000/JogoCamaCausal_Branco_02--1-.jpg?v=637937529906300000",
+        "preço": " 200,00 ",
+        "site": "https://www.firstclass.com.br/jogo-de-cama-percal-queen---100--algodao-liso---branco---0007/p",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Suíte",
+        "quantidade": "1",
+        "nome": "Edredom Queen",
+        "imagem": "https://static.riachuelo.com.br/RCHLO/14474026001/portrait/42d91b232c1c074e66103c9b8756ba7a5319c2bd.jpg",
+        "preço": " 480,00 ",
+        "site": "https://www.riachuelo.com.br/edredom-queen-linen-cinza-claro-casa-riachuelo-14474280001_sku",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Suíte",
+        "quantidade": "1",
+        "nome": "Colcha Queen",
+        "imagem": "https://static.riachuelo.com.br/RCHLO/14521784001/portrait/e7b4244390d94fd8f43cfb745548cb25552b25c9.jpg",
+        "preço": " 300,00 ",
+        "site": "https://www.riachuelo.com.br/kit-colcha-casal-queen-triangle-3-pecas-branco-casa-riachuelo-14521784001_sku",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Suíte",
+        "quantidade": "1",
+        "nome": "Manta Queen",
+        "imagem": "https://static.riachuelo.com.br/RCHLO/14476819001/portrait/76ac489778caa5ad2abcccff938ee91c36665baf.jpg?imwidth=700",
+        "preço": " 350,00 ",
+        "site": "https://www.riachuelo.com.br/manta-queen-premium-azul-marinho-casa-riachuelo-14476819001_sku",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Suíte",
+        "quantidade": "1",
+        "nome": "Manta Queen",
+        "imagem": "https://static.riachuelo.com.br/RCHLO/14404885001/portrait/c0ab7f73596172cdb48c2cb44252fc7daaf77fc0.jpg",
+        "preço": " 100,00 ",
+        "site": "https://www.riachuelo.com.br/manta-queen-fleece-colbie-preto-branco-casa-riachuelo-14405008001_sku",
+        "status": "Indisponível"
+    },
+    {
+        "categoria": "Suíte",
+        "quantidade": "1",
+        "nome": "Ar condicionado Split",
+        "imagem": "https://m.media-amazon.com/images/I/51-SnWDL+FL._AC_SX425_.jpg",
+        "preço": " 2.200,00 ",
+        "site": "https://www.amazon.com.br/dp/B09QT4MYVM/ref=olp-opf-redir?aod=1&ie=UTF8&condition=new&creative=380345&creativeASIN=B09QT4MYVM&linkCode=asm&tag=zoom059-20&ascsubtag=c25775adf3cf42b6814a5a50fc43eedd",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Espremedor de frutas",
+        "imagem": "https://imgs.casasbahia.com.br/410915/1g.jpg",
+        "preço": " 180,00 ",
+        "site": "https://www.casasbahia.com.br/extrator-de-frutas-mondial-turbo-premium-e-10-250w-bivolt-preto-410915/p/410915?utm_medium=cpc&utm_source=GP_PLA&IdSku=410915&idLojista=10037&tipoLojista=1P&&utm_campaign=gg_pmax_core_elpo&gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKuXFKzHYhKIKGQPUgjrr049tpL0GUtJwAoj8LKeaJs7VKCpoVV7rQkaAgS_EALw_wcB&gclsrc=aw.ds",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Batedeira oster inox (110v)",
+        "imagem": "https://a-static.mlcdn.com.br/1500x1500/batedeira-planetaria-oster-preto-tigela-inox-750w-obat651-12-velocidades-com-tampa/magazineluiza/224240000/55ff3f3bd1e53a4b46976a428d3aae58.jpg",
+        "preço": " 700,00 ",
+        "site": "https://www.magazineluiza.com.br/batedeira-planetaria-oster-preto-tigela-inox-750w-obat651-12-velocidades-com-tampa/p/224240000/ep/bate/?&force=2&seller_id=magazineluiza&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=68974&gclid=Cj0KCQjw2cWgBhDYARIsALggUhq9JYAmnIIBpCsCqJa5h5ngiKXNwmqZOrJMZcVS_6lwbvGjJRQqrEcaAkilEALw_wcB&gclsrc=aw.ds",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "sanduicheira (110v)",
+        "imagem": "https://philco.vteximg.com.br/arquivos/ids/193391-1000-1000/Sanduicheira-e-Grill-Press-BGR27I.jpg?v=637679127223970000",
+        "preço": " 160,00 ",
+        "site": "https://britania.com.br/sanduicheira-e-grill-press-bgr27i-127v-066701176/p?idsku=9003&gclid=CjwKCAiAk--dBhABEiwAchIwkT-B0BA86jhTXvS1fJjhQMDbl1fS2PpNauJOKxurJ6q1X2MfSoz2UxoCtOEQAvD_BwE",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "torradeira (110v)",
+        "imagem": "https://imgmarketplace.lojasrenner.com.br/20000/2299/701796976/755325540/1.jpg",
+        "preço": " 160,00 ",
+        "site": "https://www.camicado.com.br/p/torradeira-eletrica-oster-black-750w-preto-127v-otor650-127/-/A-701796976-br.lc?sku=755325540&utm_id=18288428054&gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKulojzdY4G4iQ9kFr6gU0eW8gkCZBdsLbkzPQSIgPf-DkEtulA_b4waAhmrEALw_wcB",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Liquidificador",
+        "imagem": "https://imgs.casasbahia.com.br/11823521/1xg.jpg?imwidth=500",
+        "preço": " 150,00 ",
+        "site": "",
+        "status": "Indisponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Jogo de Copo 480ml",
+        "imagem": "https://loja.nadir.com.br/media/catalog/product/cache/c9374bbd89641c59bc521af8dd3dd140/7/6/76640200913352_01_-_fam.jpg",
+        "preço": " 60,00 ",
+        "site": "https://loja.nadir.com.br/jogo-de-copos-nadir-dubai-480-ml-com-6-pecas?gclid=Cj0KCQiA4OybBhCzARIsAIcfn9n7AWtT4VxoXmmkOVtT8bSR2PtZFEX09-NdFtr9bQ4eU7T_6-PkEq0aAjBlEALw_wcB",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Jogo de Copo 350ml",
+        "imagem": "https://loja.nadir.com.br/media/catalog/product/cache/c9374bbd89641c59bc521af8dd3dd140/2/6/26410200898017_01.jpg",
+        "preço": " 55,00 ",
+        "site": "https://loja.nadir.com.br/jogo-de-copos-vitrage-nadir-350-ml-com-8-pecas",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Jogo de Copo 300ml",
+        "imagem": "https://loja.nadir.com.br/media/catalog/product/cache/c9374bbd89641c59bc521af8dd3dd140/7/7/7704_01.jpg",
+        "preço": " 50,00 ",
+        "site": "",
+        "status": "Indisponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Jarra de suco",
+        "imagem": "https://img.camicado.com.br/item/100404070/large/1.jpg",
+        "preço": " 120,00 ",
+        "site": "https://www.camicado.com.br/p/jarra-clear-16-l-home-style/-/A-100404061-br.lc?sku=100404070&utm_id=18284372104&gclid=Cj0KCQiA4OybBhCzARIsAIcfn9m4Fv7HJw1VRDkWiM4rXTqw61zeYLuEcEE5S6RUeMC8KPQAEByXSZYaAmJ8EALw_wcB",
+        "status": "Indisponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "kit utensílios silicone Preto",
+        "imagem": "https://m.media-amazon.com/images/I/51bhN-HuKHL._AC_SX679_.jpg",
+        "preço": " 130,00 ",
+        "site": "https://www.amazon.com.br/colheres-escumadeiras-espatulas-silicone-pe%C3%A7as/dp/B09LF91KKV/ref=asc_df_B09LF91KKV/?tag=googleshopp00-20&linkCode=df0&hvadid=379727414590&hvpos=&hvnetw=g&hvrand=4854266964103192112&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001655&hvtargid=pla-1474809605186&th=1",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "jogo de talher",
+        "imagem": "https://cf.shopee.com.br/file/987c0614ed78de7e750576cda937dfcb",
+        "preço": " 300,00 ",
+        "site": "",
+        "status": "Indisponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "kit assadeiras Retangular",
+        "imagem": "https://m.media-amazon.com/images/I/71RW1XwFg7L._AC_SX679_.jpg",
+        "preço": " 250,00 ",
+        "site": "https://www.amazon.com.br/Assadeiras-Alum%C3%ADnio-Revestimento-Antiaderente-Tramontina/dp/B008R7SQ40?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1ZZFT5FULY4LN&th=1",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "kit forma de bolo redonda",
+        "imagem": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/153/375/products/loja-oca_rochedo-bolo-perfeito_combo-3-formas-antiaderentes1-f1d2dc87cb901439ae16801030693373-640-0.webp",
+        "preço": " 180,00 ",
+        "site": "https://www.lojaoca.com.br/produtos/combo-3-formas-rochedo-bolo-perfeito/?gclid=CjwKCAiA76-dBhByEiwAA0_s9Zd_Nu-yY53x0zllxeglMtEfXrO8LilR9AztJigO1Rq1mNceix6vhBoCPjAQAvD_BwE",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Forma de pedra para pizza",
+        "imagem": "https://34176.cdn.simplo7.net/static/34176/sku/pizza-forma-e-assadeira-de-pizza-forma-para-pizza-de-pedra-sabao-com-31-cm-de-diametro-1653570118304.jpg",
+        "preço": " 75,00 ",
+        "site": "https://www.artesanatopedrasabao.com.br/pizza-forma-e-assadeira-de-pizza/forma-para-pizza-de-pedra-sabao-com-31-cm-de-diametro",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Aparelho de Jantar 6 pessoas",
+        "imagem": "https://oxfordporcelanas.vteximg.com.br/arquivos/ids/155909-1000-1000/oxford-porcelanas-aparelho-de-jantar-coup-white-30-pecas-00.jpg?v=636213630595600000",
+        "preço": " 700,00 ",
+        "site": "https://www.oxfordporcelanas.com.br/coup-white/p?idsku=10100902&gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKu-GNS-s-E0ZSQ8e3vu-uJYmjF2J35x29WAbPD11TgGM1hwcTy_Db0aAnMgEALw_wcB",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Saleiro",
+        "imagem": "https://cf.shopee.com.br/file/3750ee1ca6f2064a10db6b91c8b8eb67",
+        "preço": " 50,00 ",
+        "site": "https://shopee.com.br/Saleiro-De-Porcelana-Com-Colher-Porta-Condimentos-Com-Tampa-de-Bambu-Lyor-i.390772893.16354550037?xptdk=ba1c396e-9363-4e14-a5cf-3d5f8b6cac5a",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Jogo de porta mantimentos",
+        "imagem": "https://a-static.mlcdn.com.br/618x463/kit-11-potes-de-vidro-hermetico-com-tampa-de-bambu-oikos/lojamozcada/20254/577e7fc2d6e9b303d4805dd5ac314fa0.jpeg",
+        "preço": " 260,00 ",
+        "site": "https://www.magazinevoce.com.br/magazinepromocoesdosdias/kit-11-potes-de-vidro-hermetico-com-tampa-de-bambu-oikos/p/gc4egb24g6/ud/poud/",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Kit pia (Branco)",
+        "imagem": "https://a-static.mlcdn.com.br/800x560/kit-pia-cozinha-branco-3-pecas-ou-porta-detergente-lixeira-puxa-saco/prakza/918327/43affbb2172b35849c8144d61495abb4.jpg",
+        "preço": " 200,00 ",
+        "site": "",
+        "status": "Indisponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "tábua de corte",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_866794-MLB53646603069_022023-O.webp",
+        "preço": " 60,00 ",
+        "site": "https://produto.mercadolivre.com.br/MLB-2850109643-tabua-de-carne-para-churrasco-grande-bambu-alca-36x26-_JM#position=6&search_layout=grid&type=item&tracking_id=e82d99aa-c3b9-48b1-baf4-6713a5bb76b4",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "jogo de potes herméticos de vidro",
+        "imagem": "https://m.media-amazon.com/images/I/61PBVCBeldL._AC_SX425_.jpg",
+        "preço": " 125,00 ",
+        "site": "https://www.amazon.com.br/Potes-Herm%C3%A9tico-Retangular-Papinha-Pequeno/dp/B07QFSPXW4/ref=pd_bxgy_sccl_1/130-9075998-8861334?pd_rd_w=K98fM&content-id=amzn1.sym.758f3509-df88-4265-806c-565a738dc05d&pf_rd_p=758f3509-df88-4265-806c-565a738dc05d&pf_rd_r=5CGVGRR4FATNRJV9WNDZ&pd_rd_wg=EZi75&pd_rd_r=fe61801c-2b25-4503-8b34-338400c5c621&pd_rd_i=B07QFSPXW4&psc=1",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Conjunto tigelas em aço",
+        "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/134388/5/134388565_1GG.jpg",
+        "preço": " 100,00 ",
+        "site": "https://www.submarino.com.br/produto/134388557?pfm_carac=T%C3%A1%20todo%20mundo%20querendo!&pfm_index=2&pfm_page=product&pfm_pos=item_page.rr1&pfm_type=vit_recommendation&DCSext.recom=RR_item_page.rr1-mars_ClickCP%3AP%3A1%3A%3Aads%3D%3AorderAdsTest%3D&nm_origem=rec_item_page.rr1-mars_ClickCP%3AP%3A1%3A%3Aads%3D%3AorderAdsTest%3D&nm_ranking_rec=3&offerId=610444570fff249a325e3ad2&cor=INOX&condition=NEW",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "jogo de panelas",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_644017-MLB44092388081_112020-O.webp",
+        "preço": " 800,00 ",
+        "site": "https://produto.mercadolivre.com.br/MLB-1718994696-jogo-de-panelas-preto-brinox-8-pecas-ceramic-life-smart-plus-_JM?matt_tool=92309335&matt_word=&matt_source=bing&matt_campaign=MLB_ML_BING_AO_HOME%20%26%20INDUSTRY-ALL-ALL_X_PLA_ALLB_TXS_ALL&matt_campaign_id=382858298&matt_ad_group=HOME%20%26%20INDUSTRY&matt_match_type=e&matt_network=o&matt_device=c&matt_keyword=default&msclkid=bb86509d82f51abd147234b1e7074fe6&utm_source=bing&utm_medium=cpc&utm_campaign=MLB_ML_BING_AO_HOME%20%26%20INDUSTRY-ALL-ALL_X_PLA_ALLB_TXS_ALL&utm_term=4579053617522478&utm_content=HOME%20%26%20INDUSTRY",
+        "status": "Indisponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Porta temperos",
+        "imagem": "https://a-static.mlcdn.com.br/800x560/kit-10-potes-de-vidro-hermetico-com-tampa-de-bambu-200ml-oikos/lojamozcada/20347/af006012a75beaf30cf30663581e03f5.jpeg",
+        "preço": " 120,00 ",
+        "site": "https://www.magazineluiza.com.br/kit-10-potes-de-vidro-hermetico-com-tampa-de-bambu-200ml-oikos/p/hgbhg69ab7/ud/poud/",
+        "status": "Indisponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Panela Pipoqueira",
+        "imagem": "https://a-static.mlcdn.com.br/800x560/pipoqueira-pic-poc-20x145cm-42l-71157-brinox/casadasserrasltda/105436/54272513fcf0fdfa42deaaa9b5fb5204.jpeg",
+        "preço": " 160,00 ",
+        "site": "https://www.magazineluiza.com.br/pipoqueira-pic-poc-20x145cm-42l-71157-brinox/p/dfbbjjcb62/ud/ppio/",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Cozinha",
+        "quantidade": "1",
+        "nome": "Conjunto tigelas de vidro Preto",
+        "imagem": "https://a-static.mlcdn.com.br/800x560/conjunto-de-potes-de-vidro-com-tampa-tigelas-redondo-5-pecas-kit-splendo/vivaxdistribuidora/15956523444/9d2dd05edc40a828cdbacf7dc32443c8.jpeg",
+        "preço": " 90,00 ",
+        "site": "https://www.magazineluiza.com.br/conjunto-de-potes-de-vidro-com-tampa-tigelas-redondo-5-pecas-kit-splendo/p/eg6aeef5g2/ud/poud/",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Reforma",
+        "quantidade": "3",
+        "nome": "Acessórios de banheiro - prata",
+        "imagem": "https://m.media-amazon.com/images/I/61tpmX-PlDL._AC_SX679_.jpg",
+        "preço": " 125,00 ",
+        "site": "https://www.amazon.com.br/FAKEME-ferragens-toalheiro-inoxid%C3%A1vel-resistente/dp/B09V7X8C1F/ref=asc_df_B09V7X8C1F/?tag=googleshopp06-20&linkCode=df0&hvadid=379675895001&hvpos=&hvnetw=g&hvrand=4915029838187423303&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1001655&hvtargid=pla-1685084027456&psc=1",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Reforma",
+        "quantidade": "1",
+        "nome": "Ducha higiênica",
+        "imagem": "https://m.media-amazon.com/images/I/41WCqsufS4L._AC_SX569_.jpg",
+        "preço": " 45,00 ",
+        "site": "https://www.amazon.com.br/Higi%C3%AAnica-Banheiro-Cromado-Mangueira-120Cms/dp/B09WSQX1K8/ref=asc_df_B09WSQX1K8/?tag=googleshopp00-20&linkCode=df0&hvadid=379720654228&hvpos=&hvnetw=g&hvrand=10720547965432754692&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001655&hvtargid=pla-1650553631979&th=1",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Reforma",
+        "quantidade": "2",
+        "nome": "Chuveiro elétrico",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_849918-MLA46626277189_072021-O.webp",
+        "preço": " 340,00 ",
+        "site": "https://www.mercadolivre.com.br/chuveiro-eletrico-de-parede-lorenzetti-acqua-ultra-storm-branco-7800w-220v/p/MLB12543511?product_trigger_id=MLB15480278&attributes=POWER%3A7800+W%2CVOLTAGE%3A220V&quantity=1",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Reforma",
+        "quantidade": "1",
+        "nome": "Kit vaso sanitário",
+        "imagem": "https://cdn.leroymerlin.com.br/products/kit_vaso_sanitario_com_caixa_acoplada_3_6l_saida_vertical_lille_branco_sensea_89841815_ef48_600x600.jpg",
+        "preço": " 790,00 ",
+        "site": "https://www.leroymerlin.com.br/kit-vaso-sanitario-com-caixa-acoplada-3-6l-saida-vertical-lille-branco-sensea_89841815",
+        "status": "Indisponível"
+    },
+    {
+        "categoria": "Reforma",
+        "quantidade": "1",
+        "nome": "Torneira Parede - Cozinha",
+        "imagem": "https://imgs.casasbahia.com.br/1549344527/1xg.jpg",
+        "preço": " 150,00 ",
+        "site": "https://www.casasbahia.com.br/torneira-de-parede-cozinha-hydramotion-1168-preta-pta-hydra-1549344527/p/1549344527?utm_medium=Cpc&utm_source=google_freelisting&IdSku=1549344527&idLojista=88131&tipoLojista=3P",
+        "status": "Disponível"
+    },
+    {
+        "categoria": "Reforma",
+        "quantidade": "1",
+        "nome": "Ducha elétrica",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_790370-MLA46626277209_072021-O.webp",
+        "preço": " 390,00 ",
+        "site": "https://www.mercadolivre.com.br/chuveiro-eletrico-de-parede-lorenzetti-acqua-ultra-storm-branco-cromado-7800w-220v/p/MLB15480278?product_trigger_id=MLB12543513&attributes=POWER%3A7800+W&quantity=1",
+        "status": "Disponível"
+    }
+]
